@@ -63,7 +63,7 @@ main {
     margin-left: 10px;
 }
 
-h1 {
+h1, h2 {
     font-size: 1.125rem;
     font-weight: 700;
     color: var(--VeryDarkDesaturatedBlue);
